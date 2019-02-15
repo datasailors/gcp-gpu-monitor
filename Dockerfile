@@ -1,4 +1,4 @@
-FROM nvidia/cuda:10.0-runtime-centos7
+FROM nvidia/cuda:9.2-runtime-centos7
 
 MAINTAINER Alex Iankoulski <alex_iankoulski@yahoo.com>
 # Reference & Credits: Viacheslav Kovalevskyi
