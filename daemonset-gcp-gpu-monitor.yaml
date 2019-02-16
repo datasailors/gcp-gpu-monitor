@@ -23,6 +23,6 @@ spec:
 #        - name: GOOGLE_CLOUD_PROJECT
 #          value: ""
         - name: GPU_REPORTING_FREQUENCY
-          value: 60
+          value: "60"
         - name: GPU_PRINT_LOGS
           value: "True"
