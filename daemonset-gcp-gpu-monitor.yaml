@@ -24,3 +24,5 @@ spec:
 #          value: ""
         - name: GPU_REPORTING_FREQUENCY
           value: 60
+        - name: GPU_PRINT_LOGS
+          value: "True"
