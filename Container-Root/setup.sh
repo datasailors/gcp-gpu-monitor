@@ -9,7 +9,8 @@
 
 yum update
 yum install -y git epel-release 
-git clone https://github.com/b0noI/gcp-gpu-utilization-metrics.git
+#git clone https://github.com/b0noI/gcp-gpu-utilization-metrics.git
+git clone https://github.com/iankoulski/gcp-gpu-utilization-metrics.git
 cd gcp-gpu-utilization-metrics
 yum install -y python-pip
 pip install -r ./requirenments.txt
