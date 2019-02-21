@@ -2,7 +2,9 @@ FROM nvidia/cuda:9.2-runtime-centos7
 
 MAINTAINER Alex Iankoulski <alex_iankoulski@yahoo.com>
 # Reference & Credits: Viacheslav Kovalevskyi
-# https://github.com/b0noI/gcp-gpu-utilization-metrics
+# Project: https://github.com/b0noI/gcp-gpu-utilization-metrics
+# Fork: https://github.com/iankoulski/gcp-gpu-utilization-metrics
+ 
 
 ARG http_proxy
 ARG https_proxy
